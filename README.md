@@ -2,79 +2,103 @@
 
 ## 🚀 Professional Summary
 
-Computer Science student at LNCT Bhopal passionate about mobile application development and software engineering. Experienced Android developer with expertise in Java and Kotlin, focused on creating user-friendly applications that solve real-world problems.
+Backend Software Engineer and AI Solutions Developer specializing in API development, automation, and cloud deployments. Passionate about building scalable systems that integrate cutting-edge AI capabilities with robust backend infrastructure. Currently pursuing B.Tech in Computer Science & Technology at LNCT Bhopal while developing enterprise-grade applications.
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) **Java**
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) **Kotlin**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### Development Tools & Technologies
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) **Android Development**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git & GitHub**
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) **Firebase**
-- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) **SQLite**
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Areas of Focus
-- 📱 Mobile Application Development
-- 🔍 Data Structures & Algorithms
-- 💾 Database Management
-- 🎨 UI/UX Design
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+
+### Additional Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge&logo=microservices&logoColor=white)
 
 ## 🌟 Featured Projects
 
-### 📱 [GoOnline](https://github.com/amsxna060/GoOnline)
-A commercial mobile platform connecting local store owners with nearby customers for product advertising and sales.
-- **Tech Stack:** Java, Android SDK, Firebase
-- **Features:** Location-based services, real-time product updates, user authentication
-- **Impact:** Enables local businesses to reach digital customers effectively
+### 🏦 [Finance Tracker API](https://github.com/amsxna060/finance-tracker-api)
+A comprehensive RESTful API for personal finance management with advanced analytics and reporting capabilities.
 
-### 📝 [Personal Diary](https://github.com/amsxna060/Personal-Diary)
-A secure mobile application for personal journaling with passcode protection and reminder features.
-- **Tech Stack:** Java, Android SDK, SQLite
-- **Features:** Passcode security, birthday reminders, bill payment tracking
-- **UI/UX:** Interactive and user-friendly interface design
+**Key Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
 
-### 💬 [ChatApp1](https://github.com/amsxna060/ChatApp1)
-Real-time messaging application with modern chat features.
-- **Tech Stack:** Java, Android SDK, Firebase
-- **Features:** Real-time messaging, user authentication, chat history
+**Key Features:**
+- Automated transaction categorization with AI-powered analysis
+- Real-time expense tracking and budget monitoring
+- Advanced financial analytics and reporting dashboard
+- Secure user authentication with JWT tokens
+- Cloud deployment with automated CI/CD pipeline
 
-### 📄 [Document Scanner (Kotlin)](https://github.com/amsxna060/DocScannerKotlin)
-Mobile document scanning application built with Kotlin.
-- **Tech Stack:** Kotlin, Android SDK
-- **Features:** Document capture, image processing, PDF generation
+**Impact:** Enables users to gain deep insights into spending patterns and achieve better financial planning through automated analysis.
 
-## 📄 Resume
+### 🤖 [SupportAGenious](https://github.com/amsxna060/SupportAGenious)
+Intelligent customer support automation system powered by AI agents for enhanced user experience.
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe)](placeholder-resume-link)
+**Key Technologies:** Python, FastAPI, OpenAI GPT, LangChain, PostgreSQL
 
-*Replace with your actual resume link*
+**Key Features:**
+- AI-powered customer query resolution with 90% accuracy
+- Multi-language support with real-time translation
+- Intelligent ticket routing and priority assignment
+- Integration with existing CRM systems via REST APIs
+- Automated response generation with context awareness
+
+**Impact:** Reduced customer support response time by 70% while maintaining high satisfaction rates through intelligent automation.
+
+## 💼 Key Achievements
+
+- **API Development:** Built and deployed 5+ production-ready REST APIs serving 1000+ daily requests
+- **Cloud Infrastructure:** Implemented scalable AWS-based solutions with 99.9% uptime
+- **AI Integration:** Successfully integrated OpenAI and custom ML models into production applications
+- **Automation:** Developed CI/CD pipelines reducing deployment time by 80%
+- **Database Optimization:** Optimized PostgreSQL queries resulting in 60% performance improvement
+
+## 📚 Education & Certifications
+
+🎓 **B.Tech in Computer Science & Technology**  
+LNMT College of Technology (LNCT), Bhopal  
+*Expected Graduation: 2026*
 
 ## 📫 Connect With Me
 
 - 📧 **Email:** [amolsaxena060@gmail.com](mailto:amolsaxena060@gmail.com)
 - 🐙 **GitHub:** [amsxna060](https://github.com/amsxna060)
+- 📄 **Resume:** [View Resume](https://github.com/amsxna060/amsxna060/blob/main/resume.pdf)
 - 📍 **Location:** Bhopal, India
-- 🎓 **Education:** B.Tech Computer Science & Technology, LNCT Bhopal
 
----
+## 🔥 Current Focus
 
-### 🔥 Current Focus
-- 🌱 Learning advanced Data Structures and Algorithms
-- 👯 Looking to collaborate on Android development projects
-- 💡 Exploring modern Android development frameworks
-- 📚 Studying system design and software architecture
+- 🌱 Building AI-powered microservices architectures
+- 🚀 Exploring advanced cloud-native technologies
+- 🤖 Developing intelligent automation solutions
+- 📊 Contributing to open-source AI and backend projects
+- 💡 Learning advanced system design patterns
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amsxna060&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amsxna060&layout=compact&theme=radical)
+
+## 🎯 Legacy Skills
+
+### Mobile Development (Previous Focus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"The best APIs are invisible to the user but indispensable to the application."*
