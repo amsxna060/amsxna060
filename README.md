@@ -2,7 +2,9 @@
 
 ## 🚀 Professional Summary
 
-Backend Software Engineer and AI Solutions Developer specializing in API development, automation, and cloud deployments. Passionate about building scalable systems that integrate cutting-edge AI capabilities with robust backend infrastructure. Currently pursuing B.Tech in Computer Science & Technology at LNCT Bhopal while developing enterprise-grade applications.
+Software Developer with 3+ years of experience in automation, API development, and backend applications. Proficient in
+Python, FastAPI, and SQL databases with hands-on experience in AI integration, cloud deployment, and modern web
+technologies. Strong background in client collaboration and delivering practical automation solutions.
 
 ## 🛠️ Technical Skills
 
@@ -18,7 +20,7 @@ Backend Software Engineer and AI Solutions Developer specializing in API develop
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### AI & Automation
+### AI & Automation (Exposure)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
@@ -36,41 +38,41 @@ A comprehensive RESTful API for personal finance management with advanced analyt
 **Key Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
 
 **Key Features:**
-- Automated transaction categorization with AI-powered analysis
-- Real-time expense tracking and budget monitoring
-- Advanced financial analytics and reporting dashboard
-- Secure user authentication with JWT tokens
-- Cloud deployment with automated CI/CD pipeline
+– Built a comprehensive financial management API using FastAPI, SQLAlchemy, and PostgreSQL with secure user
+authentication and role-based access.
+– Implemented transaction processing system with automated balance calculations, expense categorization features.
+– Integrated AI-driven expense categorization using OpenAI for intelligent insights.
+- Implemented Razorpay integration to collect the subscription fee, handling orders, payment checkout, payment verification.
 
 **Impact:** Enables users to gain deep insights into spending patterns and achieve better financial planning through automated analysis.
 
 ### 🤖 [SupportAGenious](https://github.com/amsxna060/SupportAGenious)
 Intelligent customer support automation system powered by AI agents for enhanced user experience.
 
-**Key Technologies:** Python, FastAPI, OpenAI GPT, LangChain, PostgreSQL
+**Key Technologies:** Python, FastAPI, PostgreSQL, React.Js
 
 **Key Features:**
-- AI-powered customer query resolution with 90% accuracy
-- Multi-language support with real-time translation
-- Intelligent ticket routing and priority assignment
-- Integration with existing CRM systems via REST APIs
-- Automated response generation with context awareness
 
-**Impact:** Reduced customer support response time by 70% while maintaining high satisfaction rates through intelligent automation.
+- Built a full-stack crowdfunding platform using FastAPI and React.js.
+- Integrated Razorpay for secure payments, real-time tracking, and email alerts.
+- Added OAuth social login, boosting user sign-ups by 25%.
+- Designed modular backend for scalable campaign and payment management.
+
+**Impact:** Enhanced platform usability and boosted user sign-ups by 25% through secure payments and streamlined onboarding.
 
 ## 💼 Key Achievements
 
-- **API Development:** Built and deployed 5+ production-ready REST APIs serving 1000+ daily requests
-- **Cloud Infrastructure:** Implemented scalable AWS-based solutions with 99.9% uptime
-- **AI Integration:** Successfully integrated OpenAI and custom ML models into production applications
-- **Automation:** Developed CI/CD pipelines reducing deployment time by 80%
-- **Database Optimization:** Optimized PostgreSQL queries resulting in 60% performance improvement
+- **API Development:** Designed and implemented RESTful APIs using FastAPI for end-to-end application workflows
+- **Cloud Deployment:** Familiar with deploying and managing applications on AWS EC2, RDS, and S3
+- **AI Integration:** Integrated OpenAI API and custom ML models into backend services for intelligent features
+- **Automation:** Automated build, test, and deployment processes using Docker and GitHub Actions
+- **Database:** Experience with PostgreSQL for data modeling, query optimization, and migrations
 
 ## 📚 Education & Certifications
 
 🎓 **B.Tech in Computer Science & Technology**  
 LNMT College of Technology (LNCT), Bhopal  
-*Expected Graduation: 2026*
+*Graduated In : 2022*
 
 ## 📫 Connect With Me
 
