@@ -36,15 +36,16 @@ A comprehensive RESTful API for personal finance management with advanced analyt
 **Key Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker
 
 **Key Features:**
-– Built a comprehensive financial management API using FastAPI, SQLAlchemy, and PostgreSQL with secure user authentication and role-based access.
-– Implemented transaction processing system with automated balance calculations, expense categorization features.
-– Integrated AI-driven expense categorization using OpenAI for intelligent insights.
+
+- Built a comprehensive financial management API using FastAPI, SQLAlchemy, and PostgreSQL with secure user authentication and role-based access.
+- Implemented transaction processing system with automated balance calculations, expense categorization features.
+- Integrated AI-driven expense categorization using OpenAI for intelligent insights.
 - Implemented Razorpay integration to collect the subscription fee, handling orders, payment checkout, payment verification.
 
 **Impact:** Enables users to gain deep insights into spending patterns and achieve better financial planning through automated analysis.
 
 ### 🤖 [SupportAGenious](https://github.com/amsxna060/SupportAGenious)
-Intelligent customer support automation system powered by AI agents for enhanced user experience.
+StartUps supporting system for enhanced user experience & Supporters
 
 **Key Technologies:** Python, FastAPI, PostgreSQL, React.Js
 
@@ -89,7 +90,8 @@ LNMT College of Technology (LNCT), Bhopal
 ## 📊 GitHub Stats
 
 ![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amsxna060&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amsxna060&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amsxna060&layout=compact&theme=radical&hide=java)
 
 ## 🎯 Legacy Skills
 
